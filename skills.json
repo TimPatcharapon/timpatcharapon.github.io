@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Foundry Nuke",
+        "level" : "Advanced",
+        "icon": "https://i.ibb.co/hM5S4ry/nuke-js.png"
+    },
+    {
+        "name": "Photoshop",
+        "level": "Basic",
+        "icon": "https://i.ibb.co/bgcrfCH/aps-js.png"
+    },
+    {
+        "name": "After Effect",
+        "level": "Basic",
+        "icon": "https://i.ibb.co/ftpg32R/aae-js.png"
+    },
+    {
+        "name": "Mocha Pro",
+        "level": "Basic",
+        "icon": "https://i.ibb.co/YTNvfZD/mc-js.png"
+    },
+    {
+        "name": "Vegas Pro",
+        "level": "Advanced",
+        "icon": "https://i.ibb.co/1LkNrxb/vg-js.png"
+    },
+    {
+        "name": "Illustrator",
+        "level": "Beginner",
+        "icon": "https://i.ibb.co/xjkdf79/ai-js.png"
+    },
+    {
+        "name": "Lightroom",
+        "level": "Beginner",
+        "icon": "https://i.ibb.co/JHr8KLp/lr-js.png"
+    },
+    {
+        "name": "Blender",
+        "level": "Beginner",
+        "icon": "https://i.ibb.co/S0pHG1J/bd-js.png"
+    },
+    {
+        "name": "Maya",
+        "level": "Beginner",
+        "icon": "https://i.ibb.co/V2TqMnN/maya-js.png"
+    }    
+]
