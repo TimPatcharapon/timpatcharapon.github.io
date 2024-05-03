@@ -2,105 +2,122 @@
   {
     "name": "My Under Cover Chef",
     "desc": "My Under Cover Chef มือปราบกระทะรั่ว",
-    "desc2": "XXX",
+    "desc2": "Compositing VFX, Clean Up, Object Removal & Replacement",
     "image": "myundercoverchef",
     "category": "vfx",
     "links": {
       "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "code": ""
     }
   },
   {
     "name": "The Office Games",
     "desc": "The Office Games ร้อยเล่มเกมส์ออฟฟิศ",
-    "desc2": "XXX",
+    "desc2": "Compositing VFX, Clean Up, Object Removal & Replacement",
     "image": "theofficegames",
     "category": "vfx",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "code": ""
     }
   },
   {
     "name": "The Scammer Games",
-    "desc": "The Scammer Games เกมส์ โกง เกมส์ | Waiting OnAir|",
-    "desc2": "XXX",
+    "desc": "The Scammer Games เกมส์ โกง เกมส์ |Waiting OnAir|",
+    "desc2": "Design and Compositing VFX, Clean Up, Object Removal & Replacement",
     "image": "thescammergames",
     "category": "vfx",
     "links": {
       "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "code": ""
     }
   },
   {
     "name": "Zomvivor",
     "desc": "Zomvivor Teaser มหาลัยคลั่ง ",
-    "desc2": "XXX",
+    "desc2": "Design and Compositing VFX",
     "image": "zomvivor",
     "category": "vfx",
     "links": {
       "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "code": ""
     }
   },
   {
     "name": "Happiness",
     "desc": "Happiness Teaser",
-    "desc2": "XXX",
+    "desc2": "Design and Compositing VFX",
     "image": "happiness",
     "category": "vfx",
     "links": {
       "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "code": ""
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
+    "name": "Good Friend Official MV",
+    "desc": "EVENING SUNDAY - ใครสอน (Good Friend) Official MV ",
+    "desc2": "Clean Up Logo, Object Removal & Replacement",
+    "image": "mvgoodfriend",
+    "category": "vfx",
+    "links": {
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": ""
+    }
+  },
+  {
+    "name": "Draw & Painting",
+    "desc": "A part of my project in university",
+    "desc2": "Painting, Character Design",
+    "image": "painting",
+    "category": "art",
     "links": {
       "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "code": ""
     }
   },
   {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
-    "category": "mern",
+    "name": "Photographer & Retouch 01",
+    "desc": "A part of my hobbie",
+    "desc2": "Model, Photoshoot, Lighting, Retouch",
+    "image": "photo001",
+    "category": "others",
     "links": {
       "view": "https://github.com/jigar-sable/web-ui-clones"
+      "code": ""
     }
   },
   {
-    "name": "Crypto Tracker",
-    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
-    "category": "mern",
+    "name": "Photographer & Retouch 02",
+    "desc": "A part of my hobbie",
+    "desc2": "Photoshoot, Retouch",
+    "image": "photo002",
+    "category": "others",
     "links": {
       "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
+      "code": ""
     }
   },
   {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
-    "category": "mern",
+    "name": "Photographer & Retouch 03",
+    "desc": "A part of my hobbie",
+    "desc2": "Photoshoot, Retouch",
+    "image": "photo003",
+    "category": "others",
     "links": {
-      "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+      "view": "https://crypto-tracker-react-project.netlify.app/",
+      "code": ""
     }
   },
   {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
+    "name": "Truemove Advertising",
+    "desc": "A part of my project in trainee",
+    "desc2": "Graphic & Layout design, Animate Super",
+    "image": "ads",
+    "category": "graphic",
     "links": {
       "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "code": ""
     }
   },
   {
