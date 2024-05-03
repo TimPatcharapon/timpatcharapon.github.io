@@ -66,6 +66,39 @@
     }
   },
   {
+    "name": "Truemove Advertising",
+    "desc": "A part of my project in trainee",
+    "desc2": "Graphic & Layout design",
+    "image": "supertrue",
+    "category": "graphic",
+    "links": {
+      "view": "#",
+      "code": ""
+    }
+  },
+  {
+    "name": "Truemove Advertising Video",
+    "desc": "A part of my project in trainee",
+    "desc2": "Graphic & Layout design, Animate Super",
+    "image": "ads",
+    "category": "graphic",
+    "links": {
+      "view": "#",
+      "code": ""
+    }
+  },
+  {
+    "name": "Design Chemistry Shirt",
+    "desc": "A part of my project in university",
+    "desc2": "Design mock up shirt for Bachelor of Science (Chemistry) in university",
+    "image": "shirt",
+    "category": "graphic",
+    "links": {
+      "view": "https://composey.netlify.app/",
+      "code": ""
+    }
+  },
+  {
     "name": "Draw & Painting",
     "desc": "A part of my project in university",
     "desc2": "Painting, Character Design",
@@ -110,214 +143,92 @@
     }
   },
   {
-    "name": "Truemove Advertising",
-    "desc": "A part of my project in trainee",
-    "desc2": "Graphic & Layout design, Animate Super",
-    "image": "ads",
-    "category": "graphic",
+    "name": "The Happy Happening",
+    "desc": "A part of low budget short film in university",
+    "desc2": "Write Story, Director, Shot Design, Editor, Sound Design",
+    "image": "shortfilm001",
+    "category": "others",
     "links": {
-      "view": "#",
+      "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
       "code": ""
     }
   },
   {
-    "name": "Composey Website",
-    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
-    "image": "composey",
-    "category": "basicweb",
-    "links": {
-      "view": "https://composey.netlify.app/",
-      "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
-    }
-  },
-  {
-    "name": "Webview App",
-    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
-    "image": "webviewapp",
-    "category": "android",
+    "name": "The Fog Forlower",
+    "desc": "A part of low budget short film in university",
+    "desc2": "Write Story, Director, Shot Design, Editor, Sound Design",
+    "image": "shortfilm002",
+    "category": "others",
     "links": {
       "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
-      "code": "https://github.com/jigar-sable/Android-Webview"
+      "code": ""
     }
   },
   {
-    "name": "PHP Banking Website",
-    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
-    "image": "tsfbank",
-    "category": "lamp",
+    "name": "Out From Memories",
+    "desc": "A part of low budget short film in university",
+    "desc2": "Write Story, Director, Shot Design, Editor, Sound Design",
+    "image": "shortfilm003",
+    "category": "others",
     "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/jigar-sable/TSF-Bank"
+      "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
+      "code": ""
     }
   },
   {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
-    "category": "basicweb",
+    "name": "Storyboard 1",
+    "desc": "A part of my project in university",
+    "desc2": "Create a storyboard",
+    "image": "storyboard001",
+    "category": "others",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
   {
-    "name": "Foodicious",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
-    "category": "basicweb",
+    "name": "Storyboard 2",
+    "desc": "A part of my project in university",
+    "desc2": "Create a storyboard",
+    "image": "storyboard002",
+    "category": "others",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
   {
-    "name": "Food Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
-    "category": "basicweb",
+    "name": "Storyboard 3",
+    "desc": "A part of my project in university",
+    "desc2": "Create a storyboard, Shot design",
+    "image": "storyboard003",
+    "category": "others",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
   {
-    "name": "WebChat Website",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat",
-    "category": "mern",
+    "name": "2D Animation",
+    "desc": "A part of my project in university",
+    "desc2": "Draw & Painting, Animating",
+    "image": "2danm001",
+    "category": "others",
     "links": {
       "view": "https://github.com/jigar-sable/WebChat#webchat",
-      "code": "https://github.com/jigar-sable/WebChat"
+      "code": ""
     }
   },
   {
     "name": "Basic Banking App",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank",
-    "category": "android",
+    "desc": "A part of my project in university",
+    "desc2": "Draw & Painting for project character design ",
+    "image": "charac",
+    "category": "art",
     "links": {
       "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+      "code": ""
     }
   },
-  {
-    "name": "JavaScript Issue Tracker",
-    "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
-    "image": "issuetrack",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
-    }
-  },
-  {
-    "name": "PHP PBL Portal",
-    "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
-    "image": "phppblform",
-    "category": "lamp",
-    "links": {
-      "view": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform#pbl-portal",
-      "code": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform"
-    }
-  },
-  {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/LinkList",
-      "code": "https://github.com/jigar-sable/LinkList"
-    }
-  },
-  {
-    "name": "Job Finder Dummy",
-    "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
-    "image": "saas",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/api-projects/saas-jobs",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
-    }
-  },
-  {
-    "name": "Old Websites",
-    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
-    "image": "oldsites",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Resistor Color Codes",
-    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
-    "image": "resistercolor",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "KIA Info Website",
-    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
-    "image": "kiaweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
   }
 ]
