@@ -1,7 +1,7 @@
 [
   {
     "name": "My Under Cover Chef",
-    "desc": "My Under Cover Chef มือปราบกระทะรั่ว",
+    "desc": "My Under Cover Chef | มือปราบกระทะรั่ว",
     "desc2": "Details : Compositing VFX, Clean Up, Object Removal & Replacement",
     "image": "myundercoverchef",
     "category": "vfx",
@@ -12,7 +12,7 @@
   },
   {
     "name": "The Office Games",
-    "desc": "The Office Games ร้อยเล่มเกมส์ออฟฟิศ",
+    "desc": "The Office Games | ร้อยเล่มเกมส์ออฟฟิศ",
     "desc2": "Details : Compositing VFX, Clean Up, Object Removal & Replacement",
     "image": "theofficegames",
     "category": "vfx",
@@ -23,7 +23,7 @@
   },
   {
     "name": "The Scammer Games",
-    "desc": "The Scammer Games เกมส์ โกง เกมส์ |Waiting OnAir|",
+    "desc": "The Scammer Games | เกมส์ โกง เกมส์ (Waiting OnAir)",
     "desc2": "Details : Design and Compositing VFX, Clean Up, Object Removal & Replacement",
     "image": "thescammergames",
     "category": "vfx",
@@ -34,7 +34,7 @@
   },
   {
     "name": "Zomvivor",
-    "desc": "Zomvivor Teaser มหาลัยคลั่ง ",
+    "desc": "Zomvivor Teaser | มหาลัยคลั่ง ตัวอย่าง",
     "desc2": "Details : Design and Compositing VFX",
     "image": "zomvivor",
     "category": "vfx",
@@ -55,8 +55,8 @@
     }
   },
   {
-    "name": "Good Friend Official MV",
-    "desc": "EVENING SUNDAY - ใครสอน (Good Friend) Official MV ",
+    "name": "Good Friend | Official MV",
+    "desc": "EVENING SUNDAY - ใครสอน (Good Friend) | Official MV ",
     "desc2": "Details : Clean Up Logo, Object Removal & Replacement",
     "image": "mvgoodfriend",
     "category": "vfx",
