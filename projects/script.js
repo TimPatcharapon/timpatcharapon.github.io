@@ -54,7 +54,7 @@ function showProjects(projects) {
         </div>
         <div class="desc">
           <p>${project.desc}</p>
-          <p>${project.desc2}</p>
+          <p2>${project.desc2}</p2>
           <div class="btns">
             <a href="${project.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
           </div>
