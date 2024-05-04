@@ -2,7 +2,7 @@
   {
     "name": "My Under Cover Chef",
     "desc": "My Under Cover Chef มือปราบกระทะรั่ว",
-    "desc2": "Compositing VFX, Clean Up, Object Removal & Replacement",
+    "desc2": "Details : Compositing VFX, Clean Up, Object Removal & Replacement",
     "image": "myundercoverchef",
     "category": "vfx",
     "links": {
@@ -13,7 +13,7 @@
   {
     "name": "The Office Games",
     "desc": "The Office Games ร้อยเล่มเกมส์ออฟฟิศ",
-    "desc2": "Compositing VFX, Clean Up, Object Removal & Replacement",
+    "desc2": "Details : Compositing VFX, Clean Up, Object Removal & Replacement",
     "image": "theofficegames",
     "category": "vfx",
     "links": {
@@ -24,7 +24,7 @@
   {
     "name": "The Scammer Games",
     "desc": "The Scammer Games เกมส์ โกง เกมส์ |Waiting OnAir|",
-    "desc2": "Design and Compositing VFX, Clean Up, Object Removal & Replacement",
+    "desc2": "Details : Design and Compositing VFX, Clean Up, Object Removal & Replacement",
     "image": "thescammergames",
     "category": "vfx",
     "links": {
@@ -35,7 +35,7 @@
   {
     "name": "Zomvivor",
     "desc": "Zomvivor Teaser มหาลัยคลั่ง ",
-    "desc2": "Design and Compositing VFX",
+    "desc2": "Details : Design and Compositing VFX",
     "image": "zomvivor",
     "category": "vfx",
     "links": {
@@ -46,7 +46,7 @@
   {
     "name": "Happiness",
     "desc": "Happiness Teaser",
-    "desc2": "Design and Compositing VFX",
+    "desc2": "Details : Design and Compositing VFX",
     "image": "happiness",
     "category": "vfx",
     "links": {
@@ -57,7 +57,7 @@
   {
     "name": "Good Friend Official MV",
     "desc": "EVENING SUNDAY - ใครสอน (Good Friend) Official MV ",
-    "desc2": "Clean Up Logo, Object Removal & Replacement",
+    "desc2": "Details : Clean Up Logo, Object Removal & Replacement",
     "image": "mvgoodfriend",
     "category": "vfx",
     "links": {
@@ -68,7 +68,7 @@
   {
     "name": "Truemove Advertising",
     "desc": "A part of my project in trainee",
-    "desc2": "Graphic & Layout design",
+    "desc2": "Details : Graphic & Layout design",
     "image": "supertrue",
     "category": "graphic",
     "links": {
@@ -79,7 +79,7 @@
   {
     "name": "Truemove Advertising Video",
     "desc": "A part of my project in trainee",
-    "desc2": "Graphic & Layout design, Animate Super",
+    "desc2": "Details : Graphic & Layout design, Animate Super",
     "image": "ads",
     "category": "graphic",
     "links": {
@@ -90,7 +90,7 @@
   {
     "name": "Design Chemistry Shirt",
     "desc": "A part of my project in university",
-    "desc2": "Design mock up shirt for Bachelor of Science (Chemistry) in university",
+    "desc2": "Details : Design mock up shirt for Bachelor of Science (Chemistry) in university",
     "image": "shirt",
     "category": "graphic",
     "links": {
@@ -101,7 +101,7 @@
   {
     "name": "Draw & Painting",
     "desc": "A part of my project in university",
-    "desc2": "Painting, Character Design",
+    "desc2": "Details : Painting, Character Design",
     "image": "painting",
     "category": "art",
     "links": {
@@ -112,7 +112,7 @@
   {
     "name": "Photographer & Retouch 01",
     "desc": "A part of my hobbie",
-    "desc2": "Model, Photoshoot, Lighting, Retouch",
+    "desc2": "Details : Model, Photoshoot, Lighting, Retouch",
     "image": "photo001",
     "category": "others",
     "links": {
@@ -123,7 +123,7 @@
   {
     "name": "Photographer & Retouch 02",
     "desc": "A part of my hobbie",
-    "desc2": "Photoshoot, Retouch",
+    "desc2": "Details : Photoshoot, Retouch",
     "image": "photo002",
     "category": "others",
     "links": {
@@ -134,7 +134,7 @@
   {
     "name": "Photographer & Retouch 03",
     "desc": "A part of my hobbie",
-    "desc2": "Photoshoot, Retouch",
+    "desc2": "Details : Photoshoot, Retouch",
     "image": "photo003",
     "category": "others",
     "links": {
@@ -145,7 +145,7 @@
   {
     "name": "The Happy Happening",
     "desc": "A part of low budget short film in university",
-    "desc2": "Write Story, Director, Shot Design, Editor, Sound Design",
+    "desc2": "Details : Write Story, Director, Shot Design, Editor, Sound Design",
     "image": "shortfilm001",
     "category": "others",
     "links": {
@@ -156,7 +156,7 @@
   {
     "name": "The Fog Forlower",
     "desc": "A part of low budget short film in university",
-    "desc2": "Write Story, Director, Shot Design, Editor, Sound Design",
+    "desc2": "Details : Write Story, Director, Shot Design, Editor, Sound Design",
     "image": "shortfilm002",
     "category": "others",
     "links": {
@@ -167,7 +167,7 @@
   {
     "name": "Out From Memories",
     "desc": "A part of low budget short film in university",
-    "desc2": "Write Story, Director, Shot Design, Editor, Sound Design",
+    "desc2": "Details : Write Story, Director, Shot Design, Editor, Sound Design",
     "image": "shortfilm003",
     "category": "others",
     "links": {
@@ -178,7 +178,7 @@
   {
     "name": "Storyboard 1",
     "desc": "A part of my project in university",
-    "desc2": "Create a storyboard",
+    "desc2": "Details : Create a storyboard",
     "image": "storyboard001",
     "category": "others",
     "links": {
@@ -189,7 +189,7 @@
   {
     "name": "Storyboard 2",
     "desc": "A part of my project in university",
-    "desc2": "Create a storyboard",
+    "desc2": "Details : Create a storyboard",
     "image": "storyboard002",
     "category": "others",
     "links": {
@@ -200,7 +200,7 @@
   {
     "name": "Storyboard 3",
     "desc": "A part of my project in university",
-    "desc2": "Create a storyboard, Shot design",
+    "desc2": "Details : Create a storyboard, Shot design",
     "image": "storyboard003",
     "category": "others",
     "links": {
@@ -211,7 +211,7 @@
   {
     "name": "2D Animation",
     "desc": "A part of my project in university",
-    "desc2": "Draw & Painting, Animating",
+    "desc2": "Details : Draw & Painting, Animating",
     "image": "2danm001",
     "category": "others",
     "links": {
@@ -220,9 +220,9 @@
     }
   },
   {
-    "name": "Basic Banking App",
+    "name": "Character Design",
     "desc": "A part of my project in university",
-    "desc2": "Draw & Painting for project character design ",
+    "desc2": "Details : Draw & Painting for project character design",
     "image": "charac",
     "category": "art",
     "links": {
