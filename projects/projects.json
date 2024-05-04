@@ -99,9 +99,9 @@
     }
   },
   {
-    "name": "Draw & Painting",
+    "name": "Draw & Matte Paint",
     "desc": "A part of my project in university",
-    "desc2": "Details : Draw & Painting",
+    "desc2": "Details : Draw & Painting, Matte Paint",
     "image": "painting",
     "category": "art",
     "links": {
