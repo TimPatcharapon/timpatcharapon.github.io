@@ -892,7 +892,10 @@ header .navbar ul li a:hover {
   flex-direction: column;
   justify-content: center;
 }
-.work .desc p {
+.work .desc p{
+  font-size: 1.8rem;
+}
+.work .desc p2{
   font-size: 1.5rem;
 }
 .work .desc .btns {
