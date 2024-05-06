@@ -1,5 +1,16 @@
 [
   {
+    "name": "SHOWREEL 2024",
+    "desc": "SHOWREEL 2024 | VFX COMPOSITE",
+    "desc2": "Summarize Shot CG Of Each Project Series",
+    "image": "showreel2024",
+    "category": "vfx",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "#"
+    }
+  },
+  {
     "name": "My Under Cover Chef",
     "desc": "My Under Cover Chef | มือปราบกระทะรั่ว",
     "desc2": "Details : Compositing VFX, Clean Up, Object Removal & Replacement",
