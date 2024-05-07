@@ -44,6 +44,28 @@
     }
   },
   {
+    "name": "The Secret of Us",
+    "desc": "The Secret of Us | ใจซ่อนรัก",
+    "desc2": "Details : Design and Compositing VFX",
+    "image": "scofus",
+    "category": "vfx",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Surviving Beauty",
+    "desc": "Surviving Beauty | เว้าวอนรัก",
+    "desc2": "Details : Design and Compositing VFX",
+    "image": "wwr",
+    "category": "vfx",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "#"
+    }
+  },
+  {
     "name": "Zomvivor",
     "desc": "Zomvivor Teaser | มหาลัยคลั่ง ตัวอย่าง",
     "desc2": "Details : Design and Compositing VFX",
